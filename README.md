@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning how to handle github and I'm doing a genetics course
 - 💞️ I’m looking to collaborate on some project related to natural sciences that allows me to expand my knowledge in this area, with people from long distances.
 - 📫 How to reach me: manuel.valcarcelr@colseminario.edu.co
+- :octopus: My favorite hobby is watching serial killer movies or reading science novels
+
 
 <!---
 Malevaro/Malevaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
